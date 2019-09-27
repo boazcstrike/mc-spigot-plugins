@@ -8,10 +8,10 @@ BotToken: "NTM5MDg1ODIwMTIwNzkzMDk3.XY2vhw.TXSvIFaA9fju7qL3hlWLw-I8JoQ"
 # syntax is Channels: {"in-game channel name": "numerical channel ID from Discord", "another in-game channel name": "another numerical channel ID from Discord"}
 # The first channel pair specified in this config option will be the "main" channel, used for sending player joins/quits/deaths/achievements/etc
 #
-Channels: {"global": "000000000000000000"}
+Channels: {"mc-server": "627027708517548042", "mc-admin": "627086530913239050"}
 
 # Console channel numerical ID (NOT NAME), leave blank to disable the console channel all together
-DiscordConsoleChannelId: "000000000000000000"
+DiscordConsoleChannelId: "627086969201098793"
 
 # Debug options, don't touch unless needed
 #
