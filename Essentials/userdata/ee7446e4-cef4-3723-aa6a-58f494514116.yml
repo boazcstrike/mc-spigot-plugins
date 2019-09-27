@@ -1,4 +1,12 @@
 lastAccountName: Ravxony
 timestamps:
   login: 1569565925509
+  logout: 1569570664521
 ipAddress: 152.32.68.124
+logoutlocation:
+  world: world
+  x: 76.2636433053925
+  y: 63.0
+  z: -251.87143347641492
+  yaw: 114.98828
+  pitch: 13.649828
