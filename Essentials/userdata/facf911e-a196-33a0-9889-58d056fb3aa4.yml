@@ -1,20 +1,29 @@
 lastAccountName: boazcstrike
 timestamps:
-  login: 1569528725120
-  logout: 1569528715885
-  lastteleport: 1569525903892
-ipAddress: 180.191.101.65
+  login: 1569565888193
+  logout: 1569533445926
+  lastteleport: 1569566965353
+ipAddress: 180.191.101.187
 logoutlocation:
   world: world
-  x: -1222.0246297902008
-  y: 71.0
-  z: -1817.1038852505087
-  yaw: 249.90884
-  pitch: 4.049811
+  x: -1089.300000011921
+  y: 74.0
+  z: -3477.300000011921
+  yaw: 198.47214
+  pitch: 10.499718
 lastlocation:
   world: world
-  x: -1222.300000011921
-  y: 71.0
-  z: -1815.300000011921
-  yaw: -202.87291
-  pitch: 14.499805
+  x: 80.69999998807907
+  y: 63.0
+  z: -196.85221262012524
+  yaw: 177.14857
+  pitch: 8.099833
+homes:
+  home:
+    world: world
+    x: -1213.563127313131
+    y: 85.0
+    z: -1972.699999988079
+    yaw: -4.6486206
+    pitch: 21.300085
+money: '166.0'
