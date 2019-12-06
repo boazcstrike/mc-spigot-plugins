@@ -1,0 +1,29 @@
+lastAccountName: Raphtalia07
+timestamps:
+  login: 1571069655989
+  lastteleport: 1570979809119
+  logout: 1571070336633
+ipAddress: 180.191.98.45
+homes:
+  home:
+    world: world
+    x: -1843.2497432860216
+    y: 57.5625
+    z: -3236.9029763528056
+    yaw: -210.56744
+    pitch: 31.05004
+lastlocation:
+  world: world
+  x: -1846.699999988079
+  y: 63.875
+  z: -3227.699999988079
+  yaw: 275.01544
+  pitch: 28.800411
+logoutlocation:
+  world: world
+  x: -1870.8190000666095
+  y: 63.0
+  z: -3239.4600980242994
+  yaw: -67.5611
+  pitch: 5.549908
+afk: false

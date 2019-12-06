@@ -2,7 +2,7 @@
 ConfigVersion: 1.17.1
 
 # Bot token; don't know what this is? Look at the video on the plugin page for instructions
-BotToken: "NTM5MDg1ODIwMTIwNzkzMDk3.XY3kuA.wpstQ1PCXm25H6A5TGDWiURNcb8"
+BotToken: "NTM5MDg1ODIwMTIwNzkzMDk3.XY3nDw.8eKB4rH4_NOV1wlwVNOW4lAh2eo"
 
 # Channel links from game to Discord
 # syntax is Channels: {"in-game channel name": "numerical channel ID from Discord", "another in-game channel name": "another numerical channel ID from Discord"}
@@ -11,7 +11,7 @@ BotToken: "NTM5MDg1ODIwMTIwNzkzMDk3.XY3kuA.wpstQ1PCXm25H6A5TGDWiURNcb8"
 Channels: {"global": "627027708517548042"}
 
 # Console channel numerical ID (NOT NAME), leave blank to disable the console channel all together
-DiscordConsoleChannelId: "627086969201098793"
+DiscordConsoleChannelId: ""
 
 # Debug options, don't touch unless needed
 #

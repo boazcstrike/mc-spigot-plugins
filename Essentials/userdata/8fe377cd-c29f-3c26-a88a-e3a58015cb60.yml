@@ -1,0 +1,29 @@
+lastAccountName: Cenvix
+timestamps:
+  login: 1570891691993
+  logout: 1570891847230
+  lastteleport: 1570027805280
+ipAddress: 112.201.166.143
+logoutlocation:
+  world: world
+  x: -1863.0793724014366
+  y: 64.0
+  z: -3190.704079904588
+  yaw: -171.99335
+  pitch: -1.8009247
+lastlocation:
+  world: world
+  x: -1840.300000011921
+  y: 71.1875
+  z: -3144.300000011921
+  yaw: 259.01697
+  pitch: 13.800113
+afk: false
+homes:
+  home:
+    world: world
+    x: -2105.3552814336495
+    y: 63.0
+    z: -3049.300000011921
+    yaw: 201.19946
+    pitch: 45.90025

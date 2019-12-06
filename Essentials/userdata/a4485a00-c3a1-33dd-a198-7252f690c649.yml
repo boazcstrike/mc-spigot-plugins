@@ -1,0 +1,21 @@
+lastAccountName: Ezk
+timestamps:
+  login: 1571305051140
+  logout: 1571307912574
+  lastteleport: 1570433528329
+ipAddress: 130.105.243.81
+logoutlocation:
+  world: world
+  x: -1763.3123612858558
+  y: 67.0
+  z: -3082.010138711528
+  yaw: 152.49219
+  pitch: 25.202187
+lastlocation:
+  world: world
+  x: -1838.699999988079
+  y: 74.0
+  z: -2505.528183135411
+  yaw: 22.173954
+  pitch: 35.40035
+afk: false
